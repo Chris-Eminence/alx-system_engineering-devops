@@ -1,1 +1,1 @@
-this is not an empty readme
+README file for 0-hello world
